@@ -1,0 +1,6 @@
+E:\My Current Work\DealsMI\ProDealsMI\ProDealsMI.Core\bin\Debug\ProDealsMI.Core.dll
+E:\My Current Work\DealsMI\ProDealsMI\ProDealsMI.Core\bin\Debug\ProDealsMI.Core.pdb
+E:\My Current Work\DealsMI\ProDealsMI\ProDealsMI.Core\obj\Debug\ProDealsMI.Core.csproj.CoreCompileInputs.cache
+E:\My Current Work\DealsMI\ProDealsMI\ProDealsMI.Core\obj\Debug\ProDealsMI.Core.dll
+E:\My Current Work\DealsMI\ProDealsMI\ProDealsMI.Core\obj\Debug\ProDealsMI.Core.pdb
+E:\My Current Work\DealsMI\ProDealsMI\ProDealsMI.Core\obj\Debug\ProDealsMI.Core.csprojResolveAssemblyReference.cache
